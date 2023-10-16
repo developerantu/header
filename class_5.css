@@ -1,0 +1,83 @@
+.maindiv{
+
+    background-color: #ffffff;
+    height: 500px;
+
+}
+.header{
+  width: 100%;
+  background-color: #ff1e1e;
+  padding-bottom: 10px;
+}
+.call{
+ width: 40%;
+ display: inline-block;
+
+}
+.call img{
+    margin-bottom: -5px;
+    padding-right: 10px;
+    margin-left: 200px;
+    width: 20px;
+
+
+}
+.call a{
+   
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+.email{
+    width: 40%;
+    display: inline-block;
+}
+.email img{
+    margin-bottom: -5px;
+    padding-right: 10px;
+    margin-left: -130px;
+    width: 20px;
+}
+.email a{
+    
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+
+}
+
+.header2{
+ width: 100%;
+ margin-top: 20px;
+}
+.img_div{
+   width: 25%;
+   display: inline-block;
+   text-align: right;
+}
+.img_div img{
+
+}
+nav{
+ width: 65%;
+ display: inline-block;
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding-right: 40px;
+}
+.browser{
+    
+
+}
